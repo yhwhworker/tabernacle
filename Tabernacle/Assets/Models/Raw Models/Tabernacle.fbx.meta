@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 3e93a2eb5e5e05747b1a0cf61a6bb129
+timeCreated: 1483844002
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: -Camera
+    100002: BackPoleLong_proxy
+    100004: BackPoleSocketShort_proxy
+    100006: BackRightPole_proxy
+    100008: Capital_proxy
+    100010: Capital_proxy.001
+    100012: ConnectorPillar_proxy
+    100014: ConnectorPillar_proxy_proxy
+    100016: CornerPost_proxy
+    100018: CornerPost_proxy.001
+    100020: Ground
+    100022: PanelFrame_proxy
+    100024: PanelFrame_proxy_proxy
+    100026: PanelFrame_proxy_proxy.001
+    100028: Pole Long_proxy
+    100030: Pole Long_proxy.001
+    100032: Pole Short Socket_proxy
+    100034: Pole Short Socket_proxy_proxy
+    100036: PoleRing_proxy
+    100038: PoleRing_proxy_proxy
+    100040: PostTabernacle_proxy
+    100042: PostTabernacle_proxy_proxy
+    100044: RingWall_proxy
+    100046: RingWall_proxy_proxy
+    100048: RingWall_proxy_proxy.001
+    100050: RingWall_proxy_proxy.002
+    100052: RingWall_proxy_proxy.003
+    100054: RingWall_proxy_proxy.004
+    100056: RingWall_proxy_proxy.005
+    100058: ShortPole_proxy
+    100060: SilverSocketPedestal_proxy
+    100062: SilverSocketPedestal_proxy_proxy
+    100064: SilverSocketPedestal_proxy_proxy.001
+    100066: SilverSocketPedestal_proxy_proxy.002
+    100068: SilverSocketPedestal_proxy_proxy.003
+    100070: SocketPillarCopper_proxy
+    100072: SocketPillarSilver_proxy
+    100074: //RootNode
+    100076: Tabernacle
+    400000: -Camera
+    400002: BackPoleLong_proxy
+    400004: BackPoleSocketShort_proxy
+    400006: BackRightPole_proxy
+    400008: Capital_proxy
+    400010: Capital_proxy.001
+    400012: ConnectorPillar_proxy
+    400014: ConnectorPillar_proxy_proxy
+    400016: CornerPost_proxy
+    400018: CornerPost_proxy.001
+    400020: Ground
+    400022: PanelFrame_proxy
+    400024: PanelFrame_proxy_proxy
+    400026: PanelFrame_proxy_proxy.001
+    400028: Pole Long_proxy
+    400030: Pole Long_proxy.001
+    400032: Pole Short Socket_proxy
+    400034: Pole Short Socket_proxy_proxy
+    400036: PoleRing_proxy
+    400038: PoleRing_proxy_proxy
+    400040: PostTabernacle_proxy
+    400042: PostTabernacle_proxy_proxy
+    400044: RingWall_proxy
+    400046: RingWall_proxy_proxy
+    400048: RingWall_proxy_proxy.001
+    400050: RingWall_proxy_proxy.002
+    400052: RingWall_proxy_proxy.003
+    400054: RingWall_proxy_proxy.004
+    400056: RingWall_proxy_proxy.005
+    400058: ShortPole_proxy
+    400060: SilverSocketPedestal_proxy
+    400062: SilverSocketPedestal_proxy_proxy
+    400064: SilverSocketPedestal_proxy_proxy.001
+    400066: SilverSocketPedestal_proxy_proxy.002
+    400068: SilverSocketPedestal_proxy_proxy.003
+    400070: SocketPillarCopper_proxy
+    400072: SocketPillarSilver_proxy
+    400074: //RootNode
+    400076: Tabernacle
+    2300000: BackPoleLong_proxy
+    2300002: BackPoleSocketShort_proxy
+    2300004: BackRightPole_proxy
+    2300006: Capital_proxy
+    2300008: Capital_proxy.001
+    2300010: ConnectorPillar_proxy
+    2300012: ConnectorPillar_proxy_proxy
+    2300014: CornerPost_proxy
+    2300016: CornerPost_proxy.001
+    2300018: Ground
+    2300020: PanelFrame_proxy
+    2300022: PanelFrame_proxy_proxy
+    2300024: PanelFrame_proxy_proxy.001
+    2300026: Pole Long_proxy
+    2300028: Pole Long_proxy.001
+    2300030: Pole Short Socket_proxy
+    2300032: Pole Short Socket_proxy_proxy
+    2300034: PoleRing_proxy
+    2300036: PoleRing_proxy_proxy
+    2300038: PostTabernacle_proxy
+    2300040: PostTabernacle_proxy_proxy
+    2300042: RingWall_proxy
+    2300044: RingWall_proxy_proxy
+    2300046: RingWall_proxy_proxy.001
+    2300048: RingWall_proxy_proxy.002
+    2300050: RingWall_proxy_proxy.003
+    2300052: RingWall_proxy_proxy.004
+    2300054: RingWall_proxy_proxy.005
+    2300056: ShortPole_proxy
+    2300058: SilverSocketPedestal_proxy
+    2300060: SilverSocketPedestal_proxy_proxy
+    2300062: SilverSocketPedestal_proxy_proxy.001
+    2300064: SilverSocketPedestal_proxy_proxy.002
+    2300066: SilverSocketPedestal_proxy_proxy.003
+    2300068: SocketPillarCopper_proxy
+    2300070: SocketPillarSilver_proxy
+    3300000: BackPoleLong_proxy
+    3300002: BackPoleSocketShort_proxy
+    3300004: BackRightPole_proxy
+    3300006: Capital_proxy
+    3300008: Capital_proxy.001
+    3300010: ConnectorPillar_proxy
+    3300012: ConnectorPillar_proxy_proxy
+    3300014: CornerPost_proxy
+    3300016: CornerPost_proxy.001
+    3300018: Ground
+    3300020: PanelFrame_proxy
+    3300022: PanelFrame_proxy_proxy
+    3300024: PanelFrame_proxy_proxy.001
+    3300026: Pole Long_proxy
+    3300028: Pole Long_proxy.001
+    3300030: Pole Short Socket_proxy
+    3300032: Pole Short Socket_proxy_proxy
+    3300034: PoleRing_proxy
+    3300036: PoleRing_proxy_proxy
+    3300038: PostTabernacle_proxy
+    3300040: PostTabernacle_proxy_proxy
+    3300042: RingWall_proxy
+    3300044: RingWall_proxy_proxy
+    3300046: RingWall_proxy_proxy.001
+    3300048: RingWall_proxy_proxy.002
+    3300050: RingWall_proxy_proxy.003
+    3300052: RingWall_proxy_proxy.004
+    3300054: RingWall_proxy_proxy.005
+    3300056: ShortPole_proxy
+    3300058: SilverSocketPedestal_proxy
+    3300060: SilverSocketPedestal_proxy_proxy
+    3300062: SilverSocketPedestal_proxy_proxy.001
+    3300064: SilverSocketPedestal_proxy_proxy.002
+    3300066: SilverSocketPedestal_proxy_proxy.003
+    3300068: SocketPillarCopper_proxy
+    3300070: SocketPillarSilver_proxy
+    4300000: SocketPillarSilver_proxy
+    4300002: SocketPillarCopper_proxy
+    4300004: SilverSocketPedestal_proxy_proxy.003
+    4300006: SilverSocketPedestal_proxy_proxy.002
+    4300008: SilverSocketPedestal_proxy_proxy.001
+    4300010: SilverSocketPedestal_proxy_proxy
+    4300012: SilverSocketPedestal_proxy
+    4300014: ShortPole_proxy
+    4300016: RingWall_proxy_proxy.005
+    4300018: RingWall_proxy_proxy.004
+    4300020: RingWall_proxy_proxy.003
+    4300022: RingWall_proxy_proxy.002
+    4300024: RingWall_proxy_proxy.001
+    4300026: RingWall_proxy_proxy
+    4300028: RingWall_proxy
+    4300030: PostTabernacle_proxy_proxy
+    4300032: PostTabernacle_proxy
+    4300034: PoleRing_proxy_proxy
+    4300036: PoleRing_proxy
+    4300038: Pole Short Socket_proxy_proxy
+    4300040: Pole Short Socket_proxy
+    4300042: Pole Long_proxy.001
+    4300044: Pole Long_proxy
+    4300046: PanelFrame_proxy_proxy.001
+    4300048: PanelFrame_proxy_proxy
+    4300050: PanelFrame_proxy
+    4300052: CornerPost_proxy.001
+    4300054: CornerPost_proxy
+    4300056: ConnectorPillar_proxy_proxy
+    4300058: Capital_proxy.001
+    4300060: Capital_proxy
+    4300062: BackRightPole_proxy
+    4300064: BackPoleSocketShort_proxy
+    4300066: BackPoleLong_proxy
+    4300068: Ground
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
